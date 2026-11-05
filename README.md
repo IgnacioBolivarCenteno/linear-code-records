@@ -1,5 +1,7 @@
 # New linear codes over GF(4)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23989998.svg)](https://doi.org/10.5281/zenodo.23989998)
+
 Thirteen linear codes over GF(4) whose minimum distance is one or two above the lower bound in
 Markus Grassl's tables of linear codes at [codetables.de](https://www.codetables.de), as read on
 2026-11-05. Together they raise 29 cells of the table, ten of them by two. They were sent to the
@@ -83,8 +85,11 @@ this release.
 
 ## License and citation
 
-The codes and this text are licensed under CC BY 4.0 (see [`LICENSE`](LICENSE)). If you use
-them, please cite this repository; [`CITATION.cff`](CITATION.cff) has the details.
+The codes and this text are licensed under CC BY 4.0 (see [`LICENSE`](LICENSE)). The release
+is archived on Zenodo: version 1.0.0, published on 2026-11-05, has the DOI
+[10.5281/zenodo.23989999](https://doi.org/10.5281/zenodo.23989999), and
+[10.5281/zenodo.23989998](https://doi.org/10.5281/zenodo.23989998) always points to the latest
+version. If you use the codes, please cite them; [`CITATION.cff`](CITATION.cff) has the details.
 
 ## Acknowledgement
 

@@ -5,6 +5,8 @@ authors:
   - family-names: "Bolívar Centeno"
     given-names: "Ignacio"
 version: "1.0.0"
+doi: "10.5281/zenodo.23989999"
+date-released: "2026-11-05"
 license: CC-BY-4.0
 repository-code: "https://github.com/IgnacioBolivarCenteno/linear-code-records"
 abstract: >-
