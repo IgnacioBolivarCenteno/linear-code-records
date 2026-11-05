@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use these codes, please cite them as below."
+title: "New linear codes over GF(4): thirteen codes above the lower bounds of codetables.de"
+authors:
+  - family-names: "Bolívar Centeno"
+    given-names: "Ignacio"
+version: "1.0.0"
+license: CC-BY-4.0
+repository-code: "https://github.com/IgnacioBolivarCenteno/linear-code-records"
+abstract: >-
+  Thirteen linear codes over GF(4) whose minimum distance is one or two above the lower bounds
+  in the tables at codetables.de (as read on 2026-11-05), raising 29 cells of the table. Each
+  code is given by its generator matrix in Magma format, with its construction from a
+  1-generator quasi-cyclic code, in ten cases through Construction X.
+keywords:
+  - linear codes
+  - quasi-cyclic codes
+  - Construction X
+  - minimum distance
+  - GF(4)
